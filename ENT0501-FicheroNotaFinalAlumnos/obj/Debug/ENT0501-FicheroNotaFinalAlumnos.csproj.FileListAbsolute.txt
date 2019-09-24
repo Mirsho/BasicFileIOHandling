@@ -1,0 +1,21 @@
+C:\Users\Alumno\source\repos\ENT0501-FicheroNotaFinalAlumnos\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.exe.config
+C:\Users\Alumno\source\repos\ENT0501-FicheroNotaFinalAlumnos\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.exe
+C:\Users\Alumno\source\repos\ENT0501-FicheroNotaFinalAlumnos\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.pdb
+C:\Users\Alumno\source\repos\ENT0501-FicheroNotaFinalAlumnos\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\ENT0501-FicheroNotaFinalAlumnos\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\ENT0501-FicheroNotaFinalAlumnos\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.exe
+C:\Users\Alumno\source\repos\ENT0501-FicheroNotaFinalAlumnos\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.pdb
+C:\Users\Alumno\Desktop\ENT0501-FicheroNotaFinalAlumnos Correcciones\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.exe.config
+C:\Users\Alumno\Desktop\ENT0501-FicheroNotaFinalAlumnos Correcciones\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.exe
+C:\Users\Alumno\Desktop\ENT0501-FicheroNotaFinalAlumnos Correcciones\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.pdb
+C:\Users\Alumno\Desktop\ENT0501-FicheroNotaFinalAlumnos Correcciones\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ENT0501-FicheroNotaFinalAlumnos Correcciones\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ENT0501-FicheroNotaFinalAlumnos Correcciones\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.exe
+C:\Users\Alumno\Desktop\ENT0501-FicheroNotaFinalAlumnos Correcciones\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.pdb
+C:\Users\Alumno\Desktop\ENT0501-Notas FINAL\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.csprojAssemblyReference.cache
+C:\Users\Alumno\Desktop\ENT0501-Notas FINAL\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\ENT0501-Notas FINAL\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.exe
+C:\Users\Alumno\Desktop\ENT0501-Notas FINAL\ENT0501-FicheroNotaFinalAlumnos\obj\Debug\ENT0501-FicheroNotaFinalAlumnos.pdb
+C:\Users\Alumno\Desktop\ENT0501-Notas FINAL\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.exe.config
+C:\Users\Alumno\Desktop\ENT0501-Notas FINAL\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.exe
+C:\Users\Alumno\Desktop\ENT0501-Notas FINAL\ENT0501-FicheroNotaFinalAlumnos\bin\Debug\ENT0501-FicheroNotaFinalAlumnos.pdb
