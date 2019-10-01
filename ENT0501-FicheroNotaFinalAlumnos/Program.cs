@@ -26,7 +26,7 @@ namespace ENT0501_Notas_Alumnos
                     Console.WriteLine("Este es el fichero origianl:\n");
                     string[] AlumnosImpares = Fichero.ExtraerCadenaImpar(path1);        //Array donde guardo las lineas del fichero
 
-                    if (Control.ErrorNotas(AlumnosImpares) == false)
+                    if (Control.ErrorNotas(AlumnosImpares) == false)    //Función que comprueba errores en el tipo de datos de las notas y que su rango sea de 0 a 10
                     {
                         string[] NombresImpares = new string[AlumnosImpares.Length];        //Array donde se almacenan los Nombres
                         int[] NotasImpares = new int[AlumnosImpares.Length];                //Vector para las notas
@@ -47,12 +47,15 @@ namespace ENT0501_Notas_Alumnos
                             NombresImpares[cont] = CadenaPartida[0];        //Almacenamos los nombres, que están en la posición 0 del split
                             for (int contsuma = 1; contsuma < CadenaPartida.Length; contsuma++) //Recorremos el array generado por el split a partir de la posición 1 (donde empiezan los números).
                             {
-                                int nota = Convert.ToInt32(CadenaPartida[contsuma]);    //Convertimos el la nota como string a entero.
+                                int nota = Convert.ToInt32(CadenaPartida[contsuma]);
+                                /*Convertimos la nota en string a entero ya que previamente
+                                hemos comprobado su tipo de dato con la función Control.ErrorNotas.
+                                */
 
                                 if (contsuma <= 3)       //Notas de entregas
-                                {                                                                       // 3.HACER TRYPARSE A LOS VALORES QUE DA EL SPLIT
-                                    sumaEnt = nota + sumaEnt;       // GARANTIZANDO QUE SE PUEDAN CONVERTIR A ENTEROS (O AL TIPO DE LA CONVERSIÓN)
-                                }                                                                       //Y QUE SEAN DEL 0 AL 10.
+                                {
+                                    sumaEnt = nota + sumaEnt;
+                                }
                                 else
                                 {
                                     if (contsuma <= 6)      //Notas de intervenciones
